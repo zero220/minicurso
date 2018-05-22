@@ -1,0 +1,2 @@
+# minicurso
+Repositório para minicurso
